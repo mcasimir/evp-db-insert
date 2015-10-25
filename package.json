@@ -1,0 +1,25 @@
+{
+  "name": "evp-db-insert",
+  "version": "1.0.0",
+  "description": "Db insert command for evp",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcasimir/evp-db-insert.git"
+  },
+  "keywords": [
+    "evp"
+  ],
+  "author": "mcasimir (https://github.com/mcasimir)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcasimir/evp-db-insert/issues"
+  },
+  "homepage": "https://github.com/mcasimir/evp-db-insert#readme"
+}
